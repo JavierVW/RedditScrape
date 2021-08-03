@@ -1,6 +1,6 @@
 # Reddit Data Scrape
 
-Scraping Reddit data to form a plot
+Scraping Reddit data to form a plot of countries people will likely not revisit.
 
 ## Prerequisites
 
