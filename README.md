@@ -38,4 +38,5 @@ Using PRAW, the file reads through the top level comments in the post, searches 
 
 ## Results
 
-![data2](https://user-images.githubusercontent.com/38352176/128013004-b269964f-df10-4dec-9d82-6ee6627b4acb.PNG)
+![data3](https://user-images.githubusercontent.com/38352176/128018739-e25ed040-4386-4b85-8ffc-a954dd7a62e2.PNG)
+
