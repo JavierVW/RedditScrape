@@ -2,7 +2,7 @@
 
 Scraping Reddit data to form a plot
 
-##Prerequisites
+## Prerequisites
 ---
 
 - .ipynb reader such as Jupyter Notebook
@@ -12,10 +12,11 @@ Scraping Reddit data to form a plot
 - Pandas
 
 
-##Installation
+## Installation
 ---
 
 GeoPandas:
+
 `conda install geopandas`
 
 or 
@@ -28,7 +29,7 @@ PRAW:
 `pip install praw`
 
 
-##Usage
+## Usage
 ---
 
 This file is intended to graph the countries that Reddit users are least likely to revisit, according to an [AMA](https://www.reddit.com/r/AskReddit/comments/om38bx/what_is_one_country_that_you_will_never_visit/) from 18 July 2021.
